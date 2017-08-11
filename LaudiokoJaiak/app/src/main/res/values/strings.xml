@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laudioko Jaiak</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="titulo">Titulo</string>
+    <string name="hora">Hora</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="action_settings">Hizkuntza aldatu</string>
+    <string name="action_update">Informazioa Eguneratu</string>
+    <string name="title_activity_event_detail">Gertakizunaren zehaztasunak</string>
+
+</resources>
